@@ -1,0 +1,12 @@
+.Navigation {
+  min-height: 150px;
+  display: flex;
+  background: black;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Navigation h1,
+p {
+  color: white;
+}
